@@ -11,7 +11,7 @@ Use BlueJ to create a new Project called WordOfFortune and then create a new cla
 To prepare for the main part of the lab, practice working with the common String methods by completing the following short exercises at the top of the main method:
 
 ```java
-   // Setup a Scanner object to read input.
+  // Setup a Scanner object to read input.
   //   (make sure to import java.util.Scanner;  )
   // Declare a String called secret
   // Ask the user to input a secret word and read it from keyboard
